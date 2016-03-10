@@ -12,7 +12,7 @@ import (
 	"sync"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/pb"
+	"github.com/Flipboard/gohbase/pb"
 )
 
 // Info describes a region.
