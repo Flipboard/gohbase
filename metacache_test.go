@@ -9,8 +9,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/tsuna/gohbase/region"
-	"github.com/tsuna/gohbase/regioninfo"
+	"github.com/Flipboard/gohbase/region"
+	"github.com/Flipboard/gohbase/regioninfo"
 )
 
 func TestMetaCache(t *testing.T) {

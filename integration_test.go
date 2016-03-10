@@ -16,9 +16,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tsuna/gohbase"
-	"github.com/tsuna/gohbase/hrpc"
-	"github.com/tsuna/gohbase/test"
+	"github.com/Flipboard/gohbase"
+	"github.com/Flipboard/gohbase/hrpc"
+	"github.com/Flipboard/gohbase/test"
 	"golang.org/x/net/context"
 )
 

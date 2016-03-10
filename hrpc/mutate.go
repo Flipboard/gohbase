@@ -15,8 +15,8 @@ import (
 	"unsafe"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/filter"
-	"github.com/tsuna/gohbase/pb"
+	"github.com/Flipboard/gohbase/filter"
+	"github.com/Flipboard/gohbase/pb"
 	"golang.org/x/net/context"
 )
 

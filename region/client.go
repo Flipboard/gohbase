@@ -16,8 +16,8 @@ import (
 	log "github.com/Sirupsen/logrus"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/hrpc"
-	"github.com/tsuna/gohbase/pb"
+	"github.com/Flipboard/gohbase/hrpc"
+	"github.com/Flipboard/gohbase/pb"
 )
 
 // ClientType is a type alias to represent the type of this region client

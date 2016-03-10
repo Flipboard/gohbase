@@ -18,11 +18,11 @@ import (
 	log "github.com/Sirupsen/logrus"
 	"github.com/cznic/b"
 	"github.com/golang/protobuf/proto"
-	"github.com/tsuna/gohbase/hrpc"
-	"github.com/tsuna/gohbase/pb"
-	"github.com/tsuna/gohbase/region"
-	"github.com/tsuna/gohbase/regioninfo"
-	"github.com/tsuna/gohbase/zk"
+	"github.com/Flipboard/gohbase/hrpc"
+	"github.com/Flipboard/gohbase/pb"
+	"github.com/Flipboard/gohbase/region"
+	"github.com/Flipboard/gohbase/regioninfo"
+	"github.com/Flipboard/gohbase/zk"
 	"golang.org/x/net/context"
 )
 
